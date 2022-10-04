@@ -1,0 +1,9 @@
+[package]
+name = "fuji-x-webcam"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gphoto2 = "2"
+env_logger = "0.9"
+log = "0.4"
